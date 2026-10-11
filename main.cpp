@@ -1,3 +1,5 @@
+
+// Lab P0 - introductory assignment
 #include <iostream>
 
 namespace binkovsky {
